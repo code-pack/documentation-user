@@ -10,23 +10,24 @@ Applications
    sales
    website
    ecommerce
-   discuss
    purchase
    inventory
    manufacturing
    quality
    point_of_sale
-   project
-   helpdesk
-   livechat/livechat
    expense/expense
+   helpdesk
+   project
+   fsm
+   planning
+   timesheets
    iot
    mobile/firebase
+   discuss
+   livechat/livechat
    social_marketing
    sms_marketing
    marketing_automation
-   fsm
-   planning
    email_marketing
 
    general
